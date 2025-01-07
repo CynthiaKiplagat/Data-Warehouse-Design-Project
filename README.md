@@ -15,6 +15,9 @@ The order details table connects to the orders tables using order_id and links t
 ### Dimension Modelling 
 While mapping the relaationships,I observed that the datasets are structured similarly to an OLTP (Online Transaction Processing) database. While this structure works for day-to-day operations, it’s not optimized for analytical queries.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Existing%20Model%20in%20CSV%20.PNG)
+
+
 
 
 
