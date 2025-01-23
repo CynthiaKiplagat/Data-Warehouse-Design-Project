@@ -36,6 +36,9 @@ After creating the dimensional tables, i moved on to setting up the staging tabl
 Subsequently, I created the dimension tables and load scripts to facilitate the data loading process, ultimately resulting in the creation of a data warehouse. This process ensures that data is efficiently organized and accessible for analysis, enabling better decision-making and insights.
 <img width="484" alt="Dimension Load Script" src="https://github.com/user-attachments/assets/fa7fcb1e-d215-4ae4-be5c-5b90ca98c5ac" />
 
+<img width="265" alt="Dimension Table" src="https://github.com/user-attachments/assets/0db52854-cc6d-4b59-8beb-a7de092de6c7" />
+
+
 
 
 
