@@ -18,10 +18,10 @@ While mapping the relationships,I observed that the datasets are structured simi
 ![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Existing%20Model%20in%20CSV%20.PNG)
 
 For this project, I streamlined the data structure to enhance simplicity and usability:
-•	I merged the Order and Order Details tables into a single table called Orders, making it easier to track and analyze order-level information.
-•	Similarly, I combined the Pizza and Pizza Types tables into a unified table named Products, providing a consolidated view of all product-related details.
-•	To enable time-based analysis and store-level insights, I introduced two additional dimensions: Date, time and Store.
-•	Finally, I created a fact table called Sales, which includes key metrics like quantity and price, along with foreign key links to the dimension tables (Orders, Products, Date, and Store).
+*	I merged the Order and Order Details tables into a single table called Orders, making it easier to track and analyze order-level information.
+*	Similarly, I combined the Pizza and Pizza Types tables into a unified table named Products, providing a consolidated view of all product-related details.
+*	To enable time-based analysis and store-level insights, I introduced two additional dimensions: Date, time and Store.
+*	Finally, I created a fact table called Sales, which includes key metrics like quantity and price, along with foreign key links to the dimension tables (Orders, Products, Date, and Store).
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Dimension%20Modelling.drawio.png)
 
