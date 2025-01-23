@@ -32,6 +32,10 @@ After creating the dimensional tables, i moved on to setting up the staging tabl
 ![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Order%20Details.PNG)
 
 (![image](https://github.com/user-attachments/assets/e7d74f7b-9338-4fbf-8fe0-10bc2c04c673)
+### Dimension Tables 
+Subsequently, I created the dimension tables and load scripts to facilitate the data loading process, ultimately resulting in the creation of a data warehouse. This process ensures that data is efficiently organized and accessible for analysis, enabling better decision-making and insights.
+<img width="484" alt="Dimension Load Script" src="https://github.com/user-attachments/assets/fa7fcb1e-d215-4ae4-be5c-5b90ca98c5ac" />
+
 
 
 
