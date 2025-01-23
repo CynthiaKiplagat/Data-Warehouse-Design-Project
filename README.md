@@ -29,6 +29,8 @@ This design ensures an efficient, scalable, and analytics-ready data warehouse s
 ### Staging Tables 
 After creating the dimensional tables, i moved on to setting up the staging tables that will load our data into the MySQL database. I have already created a database called sch_pizza_stg which contains four tables: order_details, orders, pizza, and pizza_types. I have successfully created and loaded the corresponding data from four CSV files into these MySQL tables.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Order%20Details.PNG)
+
 
 
 
