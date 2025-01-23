@@ -31,6 +31,9 @@ After creating the dimensional tables, i moved on to setting up the staging tabl
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Data-Warehouse-Design-Project/blob/main/Order%20Details.PNG)
 
+![Alt Text](![image](https://github.com/user-attachments/assets/e7d74f7b-9338-4fbf-8fe0-10bc2c04c673)
+
+
 
 
 
